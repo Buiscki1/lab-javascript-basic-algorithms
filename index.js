@@ -18,6 +18,8 @@ for (let i = 0; i < 1; i++) {
     }
 }
 
+// Iteration 3: Loops
+
 const UC = hacker1.toUpperCase()
 console.log(UC.split(''))
 
@@ -33,11 +35,3 @@ console.log(reverse(hacker1))
 let arr = [hacker1, hacker2]
 
 console.log(arr.sort())
-
-    
-/*
-- The driver has the longest name, it has XX characters. or
-- It seems that the navigator has the longest name, it has XX characters. or
-- Wow, you both have equally long names, XX characters!.*/
-
-// Iteration 3: Loops
